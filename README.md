@@ -7,7 +7,7 @@ I'm Matthew M Tarfa a Solution Architect / Cloud Engineer . I Spend most of my t
 [![Twitter Badge](https://img.shields.io/badge/-@tarfa_matthew-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tarfa_matthew)](https://twitter.com/tarfa_matthew) [![Linkedin Badge](https://img.shields.io/badge/-Matthew-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthew-tarfa/) [![Mail Badge](https://img.shields.io/badge/-@matthewtarfa-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/matthewtarfa) [![Mail Badge](https://img.shields.io/badge/-tarfamatthew-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:tarfamatthew@gmail.com)
 
 <!-- TODO: Add last video link -->
-<img align = "right" src="https://ameyacloud.in/wp-content/uploads/2021/07/AMAZON-AWS-CLOUD-ENGINEER.gif" width="300" height="300" alt="hi">
+<img align = "right" src="https://ameyacloud.in/wp-content/uploads/2021/07/AMAZON-AWS-CLOUD-ENGINEER.gif" width="250" height="250" alt="hi">
 
 - 🔭 I’m currently working at Factorial Systems.
   
