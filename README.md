@@ -42,6 +42,12 @@ I'm Matthew M Tarfa a Solution Architect / Cloud Engineer . I Spend most of my t
 #### Coding Stats
 
 <!--START_SECTION:waka-->
+
+```text
+Markdown   33 mins         ██████████████████████░░░   87.35 %
+Other      4 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.58 %
+```
+
 <!--END_SECTION:waka-->
 
 #### Github Stats
