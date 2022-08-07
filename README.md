@@ -2,7 +2,7 @@
 
 I'm Matthew M Tarfa a Solution Architect / Cloud Engineer . I Spend most of my time learning and working on outstanding projects, I am inspired by the power of technology, and its capacity to bring people together as a consequence a strong tool for positive change.
 
-:mailbox: Reach me out!
+:mailbox: Reach out!
 
 [![Twitter Badge](https://img.shields.io/badge/-@tarfa_matthew-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/tarfa_matthew)](https://twitter.com/tarfa_matthew) [![Linkedin Badge](https://img.shields.io/badge/-Matthew-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthew-tarfa/) [![Mail Badge](https://img.shields.io/badge/-@matthewtarfa-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/matthewtarfa) [![Mail Badge](https://img.shields.io/badge/-tarfamatthew-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:tarfamatthew@gmail.com)
 
@@ -37,7 +37,12 @@ I'm Matthew M Tarfa a Solution Architect / Cloud Engineer . I Spend most of my t
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=matthewtarfa.matthewtarfa)
 
+<details>
+<summary>
+More Stuff About Me
+</summary>
 
+<br >
 
 #### Coding Stats
 
