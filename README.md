@@ -50,8 +50,8 @@ More Stuff About Me
 <!--START_SECTION:waka-->
 
 ```text
-Markdown   7 hrs 7 mins    ████████████████████████▒   97.61 %
-Other      10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
+Markdown   5 hrs 53 mins   ████████████████████████▓   99.27 %
+Other      2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
 ```
 
 <!--END_SECTION:waka-->
