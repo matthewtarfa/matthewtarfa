@@ -50,8 +50,8 @@ More Stuff About Me
 <!--START_SECTION:waka-->
 
 ```text
-Bash    2 hrs 58 mins   ██████████████████████▒░░   89.30 %
-Other   17 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.85 %
+Bash   2 hrs 21 mins   ████████████████████████▒   97.45 %
+Text   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
 ```
 
 <!--END_SECTION:waka-->
