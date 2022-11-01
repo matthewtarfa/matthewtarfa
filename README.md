@@ -50,8 +50,7 @@ More Stuff About Me
 <!--START_SECTION:waka-->
 
 ```text
-Markdown   1 hr 43 mins    ████████████████████████▓   98.50 %
-Git        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
+Markdown   1 hr 42 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
