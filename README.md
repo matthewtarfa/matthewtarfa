@@ -50,7 +50,11 @@ More Stuff About Me
 <!--START_SECTION:waka-->
 
 ```text
-Markdown   1 min           █████████████████████████   100.00 %
+YAML       20 mins         ██████████▒░░░░░░░░░░░░░░   41.37 %
+Markdown   14 mins         ███████▒░░░░░░░░░░░░░░░░░   29.18 %
+Text       10 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.88 %
+Bash       3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 %
+Other      1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
 ```
 
 <!--END_SECTION:waka-->
