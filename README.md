@@ -50,8 +50,8 @@ More Stuff About Me
 <!--START_SECTION:waka-->
 
 ```text
-Terraform   4 hrs 51 mins   █████████████████████████   99.43 %
-Other       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+Terraform   4 hrs 52 mins   ████████████████████████▓   98.97 %
+Other       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
 ```
 
 <!--END_SECTION:waka-->
