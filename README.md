@@ -50,9 +50,7 @@ More Stuff About Me
 <!--START_SECTION:waka-->
 
 ```text
-Terraform   47 mins         ██████████████████████░░░   88.38 %
-INI         3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 %
-PHP         2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
+Terraform   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
