@@ -50,7 +50,10 @@ More Stuff About Me
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Terraform   27 mins         █████████▒░░░░░░░░░░░░░░░   36.89 %
+Docker      17 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.81 %
+Git         15 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.20 %
+Other       11 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.47 %
 ```
 
 <!--END_SECTION:waka-->
