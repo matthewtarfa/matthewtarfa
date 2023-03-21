@@ -50,10 +50,8 @@ More Stuff About Me
 <!--START_SECTION:waka-->
 
 ```text
-Terraform   1 hr 1 min      ██████████████░░░░░░░░░░░   56.16 %
-Docker      17 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.67 %
-Git         15 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.56 %
-Other       12 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.11 %
+Terraform   1 hr 16 mins    █████████████▓░░░░░░░░░░░   54.95 %
+Other       27 mins         █████░░░░░░░░░░░░░░░░░░░░   19.62 %
 ```
 
 <!--END_SECTION:waka-->
