@@ -50,7 +50,9 @@ More Stuff About Me
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Markdown     9 mins          ██████████████░░░░░░░░░░░   55.81 %
+JavaScript   6 mins          ██████████▒░░░░░░░░░░░░░░   40.93 %
+Other        0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
 ```
 
 <!--END_SECTION:waka-->
