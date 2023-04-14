@@ -50,9 +50,10 @@ More Stuff About Me
 <!--START_SECTION:waka-->
 
 ```text
-Markdown     9 mins          ██████████████░░░░░░░░░░░   55.81 %
-JavaScript   6 mins          ██████████▒░░░░░░░░░░░░░░   40.93 %
-Other        0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
+Python       1 hr 5 mins     ████████████████████░░░░░   80.14 %
+Markdown     9 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.08 %
+JavaScript   6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
 ```
 
 <!--END_SECTION:waka-->
