@@ -50,10 +50,7 @@ More Stuff About Me
 <!--START_SECTION:waka-->
 
 ```text
-Python       1 hr 5 mins     ████████████████████░░░░░   80.14 %
-Markdown     9 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.08 %
-JavaScript   6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+Python   1 hr 5 mins     █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
