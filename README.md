@@ -50,11 +50,10 @@ More Stuff About Me
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   2 hrs 3 mins    ██████████████▒░░░░░░░░░░   57.50 %
-Python       1 hr 5 mins     ███████▓░░░░░░░░░░░░░░░░░   30.37 %
-CSS          15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.06 %
-JavaScript   9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+TypeScript   2 hrs 11 mins   █████████████████████░░░░   83.44 %
+CSS          15 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.65 %
+JavaScript   9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
 ```
 
 <!--END_SECTION:waka-->
