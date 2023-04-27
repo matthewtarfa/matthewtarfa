@@ -50,10 +50,9 @@ More Stuff About Me
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   7 mins          █████████████▒░░░░░░░░░░░   53.10 %
-Bash         3 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.15 %
-JavaScript   2 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.57 %
-Markdown     1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   11.17 %
+Bash         3 mins          ███████████▒░░░░░░░░░░░░░   45.11 %
+JavaScript   2 mins          ███████▓░░░░░░░░░░░░░░░░░   31.07 %
+Markdown     1 min           ██████░░░░░░░░░░░░░░░░░░░   23.82 %
 ```
 
 <!--END_SECTION:waka-->
