@@ -50,9 +50,7 @@ More Stuff About Me
 <!--START_SECTION:waka-->
 
 ```text
-Bash         3 mins          ███████████▒░░░░░░░░░░░░░   45.11 %
-JavaScript   2 mins          ███████▓░░░░░░░░░░░░░░░░░   31.07 %
-Markdown     1 min           ██████░░░░░░░░░░░░░░░░░░░   23.82 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
