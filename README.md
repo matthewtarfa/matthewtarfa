@@ -49,7 +49,7 @@ More Stuff About Me
 
 <!--START_SECTION:waka-->
 
-```text
+```txt
 No activity tracked
 ```
 
