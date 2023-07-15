@@ -50,7 +50,9 @@ More Stuff About Me
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+YAML       12 mins         ███████████████████████░░   92.65 %
+Other      0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
+Markdown   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
 ```
 
 <!--END_SECTION:waka-->
